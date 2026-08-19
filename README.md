@@ -21,14 +21,14 @@ Le CMS que nous utiliserons principalement est WordPress (augmenté de l'interfa
 
 Apprentissage initial du CMS WordPress à travers une série d'exercices, sur quatre leçons.   
 **Rendu:** documentation en capture d'écran vidéo du travail réalisé.  
-**Date du rendu**: Lundi 5 octobre 2026 au début du cours.
+**Date du rendu**: Mercredi 16 septembre 2026 au début du cours.
 
 ### Deuxième phase: application
 
 Un travail réel utilisant le CMS WordPress.
 
-Ce travail débutera le 5 octobre. 
+Ce travail débutera le 16 septembre. 
 
 ## Agenda
 
-Voir [l'agenda du cours](https://eduvaud.sharepoint.com/:x:/r/sites/ERACOM_2526_ID432_Teams/Documents%20partages/D%C3%A9v%20Interface%204%20CMS/AGENDA%20ID432%20CMS.xlsx?d=wab142f4c9506432ebd5f83d8ee481fd4&csf=1&web=1&e=sVDIiT) dans Teams.
+Voir [l'agenda du cours](https://eduvaud.sharepoint.com/:x:/r/sites/ERACOM_2526_ID441_Teams/Documents%20partages/D%C3%A9v%20Interface%204%20CMS/AGENDA%20ID441%20Dev3.xlsx?d=we79a598365e94d7f83158ff24934e1c4&csf=1&web=1&e=PP16mo) dans Teams.

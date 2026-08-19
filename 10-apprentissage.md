@@ -8,7 +8,7 @@ permalink: apprentissage.html
 
 Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre leçons.   
 
-### Leçon du 17 août : Contenus
+### Leçon du 19 août : Contenus
 
 - Installation de Local et WordPress
 - Créer un contenu de type Page
@@ -23,12 +23,12 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 - Une page "Contact"
 - Un article "Projet de Portfolio"
 
-### Leçon du 24 août : Modèles
+### Leçon du 26 août : Modèles
 
 - Modèles de page WordPress
 - Modification du modèle de la page d'accueil
 
-### Leçon du 7 septembre : Bricks
+### Leçon du 2 septembre : Bricks
 
 - Installation du thème Bricks
 - Fonctionnement de l'éditeur
@@ -38,7 +38,7 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 - Les styles du site (Typographie)
 - Construction de la page d'accueil avec Bricks (Query)
 
-### Leçon du 28 septembre : ACF
+### Leçon du 9 septembre : ACF
 
 - Configurer un type de contenu "Portfolio"
 - Configurer les champs
@@ -53,7 +53,7 @@ Apprentissage du CMS WordPress à travers une série d'exercices, sur quatre le�
 - documentation en capture d'écran vidéo du travail réalisé. 
 - export ZIP du site web. 
 
-**Date du rendu:** Lundi 5 octobre 2026 au début du cours.
+**Date du rendu:** Mercredi 16 septembre 2026 au *début* du cours.
 
 #### Critères: 
 
